@@ -1,6 +1,6 @@
 Name:		texlive-testhyphens
 Version:	38928
-Release:	1
+Release:	2
 Summary:	Testing hyphenation patterns
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/testhyphens
